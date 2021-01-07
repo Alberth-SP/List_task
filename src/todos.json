@@ -1,0 +1,28 @@
+{
+    "todos": [
+        {
+            "title": "Task 1",
+            "responsable": "Mark",
+            "description": "Esta es la Tarea 1",
+            "priority": "Low"
+        },
+        {
+            "title": "Task 2",
+            "responsable": "Dylan",
+            "description": "Esta es la Tarea 2",
+            "priority": "MEdium"
+        },
+        {
+            "title": "Task 3",
+            "responsable": "Kled",
+            "description": "Esta es la Tarea 3",
+            "priority": "Hight"
+        },
+        {
+            "title": "Task 4",
+            "responsable": "Irelia",
+            "description": "Esta es la Tarea 4",
+            "priority": "Low"
+        }
+    ]
+}
